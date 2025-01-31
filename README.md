@@ -13,6 +13,7 @@ j'espère que ça vous plaira Mr Vitali
 
 [Carte Région](https://ThomasBantchik.github.io/S1_CNC/code_region.html)
 
+[Carte Région et Département](https://ThomasBantchik.github.io/S1_CNC/code_region_departement.html)
 
 ## Carte + réseau
 
