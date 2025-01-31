@@ -14,7 +14,6 @@ j'espère que ça vous plaira Mr Vitali
 
 [Barchart Plot ly](https://ThomasBantchik.github.io/S1_CNC/barchart_plotly.html)
 
-
 ## Carte
 
 [Carte Région](https://ThomasBantchik.github.io/S1_CNC/code_region.html)
@@ -22,6 +21,8 @@ j'espère que ça vous plaira Mr Vitali
 [Carte Région et Département](https://ThomasBantchik.github.io/S1_CNC/code_region_departement.html)
 
 ## Carte + réseau
+
+
 
 ## Réseau
 
