@@ -26,6 +26,7 @@ Barchart GGplot
 
 ## Carte + réseau
 
+[carte_nationaliteOK.pdf.webm](https://github.com/user-attachments/assets/c07397d9-1276-4d96-9172-2f059ec912e8)
 
 
 ## Réseau
