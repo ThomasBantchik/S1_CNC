@@ -15,6 +15,6 @@ j'espère que ça vous plaira Mr Vitali
 
 ## Réseau
 
-[Réseau MCU](https://ThomasBantchik.github.io/S1_CNC/reseau_MCU.html)
+[Reseau MCU](https://ThomasBantchik.github.io/S1_CNC/reseau_MCU.html)
 
 
