@@ -26,7 +26,7 @@ Barchart GGplot
 
 ## Carte + réseau
 
-file:///C:/Users/thoma/Desktop/UVSQ/M1%20-%20S1/Sciences%20num%C3%A9riques%20appliqu%C3%A9es%20%C3%A0%20la%20gestion%20de%20l'informatique/S1_CNC/Resultat%20final/carte_nationaliteOK.html
+Fichier trop lourd pour être intégré dans Github malheureusement, je le montre en détail dans la vidéo.
 
 ## Réseau
 
