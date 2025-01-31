@@ -6,7 +6,7 @@ j'espère que ça vous plaira Mr Vitali
 
 [Graph Donut Concentrique Plot ly](https://ThomasBantchik.github.io/S1_CNC/donut_plotlyconcentrique2023.html)
 
-[Barchart Plot ly](https://github.com/ThomasBantchik/S1_CNC/main/donut_plotlyconcentrique2023.html)
+[Barchart Plot ly](https://ThomasBantchik.github.io/S1_CNC/barchart_plotly.html)
 
 
 ## Carte
