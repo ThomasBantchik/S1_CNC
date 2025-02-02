@@ -26,17 +26,20 @@ J'ai ensuite passé ce code en plot ly pour qu'il soit plus agréable à l'oeil.
 ## Carte
 
 En me basant cette fois sur les données des entrées dans les différentes régions et départements du pays, j'ai décidé de faire une carte représentants ces valeurs sur l'année 2023. J'ai d'abord réalisé une carte me concentrant uniquement sur les régions.
-[Carte Région](https://github.com/ThomasBantchik/S1_CNC/main/code_region.html)
+[Carte Région](https://ThomasBantchik.github.io/S1_CNC/code_region.html)
 
 Après ce résultat satisfaisant, j'ai pu facilement ajouter les départements. La carte est modifiable en utilisant le Layers Control.
 [Carte Région et Département](https://ThomasBantchik.github.io/S1_CNC/code_region_departement.html)
 
 ## Carte + réseau
 
-Fichier trop lourd pour être intégré dans Github malheureusement, je le montre en détail dans la vidéo.
+J'ai ensuite voulu réalisé une carte et un réseau en même temps, en me basant sur les données du CNC sur le nombre de films en exploitation dans les salles françaises selon la nationalité.
+Comme je l'ai expliqué dans la vidéo, je n'ai pas pu importer ma carte dans Github car elle est apparemment trop lourde. Je vous laisse vous référer à la vidéo pour avoir les détails de sa conception et de comment elle fonctionne.
 
 ## Réseau
 
+Voulant faire un "vrai" réseau, avec des noeuds interconnectés, j'ai décidé de faire en plus un réseau sur les liens entre les acteurs de la Phase 1 du MCU (n'ayant pas réussit à trouver de données aux CNC pouvant être utilisées sous forme de réseau).
+Ce réseau met en avant quel acteur à joué dans quels films et si ils ont partagé - ou non - des scènes ensembles à plusieurs reprises dans différents films de la Phase 1 du MCU.
 [Reseau MCU](https://ThomasBantchik.github.io/S1_CNC/reseau_MCU.html)
 
 
