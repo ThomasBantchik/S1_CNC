@@ -1,21 +1,28 @@
 # S1_CNC
 j'espère que ça vous plaira Mr Vitali
+
+Bonjour Monsieur, voici les résultats que j'ai pu produire en me basant sur des bases de données du Centre National du Cinéma et de l'Image Animée (CNC)
+
 ## Graph
 
+En me basant sur les données des catégories d'âges du publics des films français, j'ai pu réaliser un premier graph en "donut" en me concentrant uniquement sur l'année 2023.
 Graph Donut 2023 GGplot
 ![Rplot](https://github.com/user-attachments/assets/1d64e691-1453-4ce4-9edb-5aca08563582)
 
-[Graph Donut Plot ly 2023](https://ThomasBantchik.github.io/S1_CNC/donut_plotly2023.html)
-
+J'ai ensuite voulu réaliser des graphs en "donuts concentriques" pour ainsi représenter l'évolution sur plusieurs années de ces catégories d'âges.
 Graph Donut concentrique GGplot
 ![Rplot02](https://github.com/user-attachments/assets/baff37d5-2882-4387-8b56-3ad23072f55c)
 
+Peu convaincu par l'aspect visuel de ce genre de graph sous ggplot, j'ai décidé de passer en plot ly, d'abord juste sur l'année 2023.
+[Graph Donut Plot ly 2023](https://ThomasBantchik.github.io/S1_CNC/donut_plotly2023.html)
+
+Encouragé par ce résultat, j'ai voulu réaliser de nouveau un graph avec des donuts concentriques en plot ly. Mais j'ai découvert que plot ly ne pouvais pas géré plus de deux donuts à la fois, alors voici mon résultat.
 [Graph Donut Concentrique Plot ly](https://ThomasBantchik.github.io/S1_CNC/donut_plotlyconcentrique2023.html)
 
-Barchart GGplot
-
+Peu convaincu par ce résultat, j'ai décidé de passé sur un plus classique Barchart en ggplot. J'en ai profité pour ajouter les années 2018 et 2019 à mes datas pour avoir des données pré et post-Covid.
 ![Rplot](https://github.com/user-attachments/assets/ff1e3938-e715-4c5c-83f3-11c0d5f644a3)
 
+J'ai ensuite passé ce code en plot ly pour qu'il soit plus agréable à l'oeil.
 [Barchart Plot ly](https://ThomasBantchik.github.io/S1_CNC/barchart_plotly.html)
 
 ## Carte
