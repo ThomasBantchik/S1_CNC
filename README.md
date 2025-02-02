@@ -20,7 +20,7 @@ Barchart GGplot
 
 ## Carte
 
-[Carte Région](https://github.com/ThomasBantchik/S1_CNC/code_region.html)
+[Carte Région](https://github.com/ThomasBantchik/S1_CNC/main/code_region.html)
 
 [Carte Région et Département](https://ThomasBantchik.github.io/S1_CNC/code_region_departement.html)
 
