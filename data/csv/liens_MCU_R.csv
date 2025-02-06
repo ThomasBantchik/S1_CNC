@@ -1,0 +1,115 @@
+from,to,type,label,value,films
+001a,001f,Direct,a joué dans,1,
+002a,001f,Direct,a joué dans,1,
+003a,001f,Direct,a joué dans,1,
+004a,001f,Direct,a joué dans,1,
+005a,001f,Direct,a joué dans,1,
+006a,001f,Direct,a joué dans,1,
+007a,001f,Direct,a joué dans,1,
+001a,002a,Undirected,ont partagé au moins une scène dans un film,3,"Iron Man, Iron Man 2 et Avengers"
+001a,003a,Undirected,ont partagé au moins une scène dans un film,1,Iron Man
+001a,004a,Undirected,ont partagé au moins une scène dans un film,1,Iron Man
+001a,005a,Undirected,ont partagé au moins une scène dans un film,3,"Iron Man, Iron Man 2 et Avengers"
+001a,006a,Undirected,ont partagé au moins une scène dans un film,3,"Iron Man, Iron Man 2 et Avengers"
+001a,007a,Undirected,ont partagé au moins une scène dans un film,3,"Iron Man, Iron Man 2 et Avengers"
+002a,003a,Undirected,ont partagé au moins une scène dans un film,1,Iron Man
+002a,004a,Undirected,ont partagé au moins une scène dans un film,1,Iron Man
+002a,005a,Undirected,ont partagé au moins une scène dans un film,2,Iron Man et Iron Man 2
+002a,006a,Undirected,ont partagé au moins une scène dans un film,3,"Iron Man, Iron Man 2 et Avengers"
+002a,007a,Undirected,ont partagé au moins une scène dans un film,3,"Iron Man, Iron Man 2 et Avengers"
+005a,006a,Undirected,ont partagé au moins une scène dans un film,3,"Iron Man, Iron Man 2 et Avengers"
+005a,007a,Undirected,ont partagé au moins une scène dans un film,4,Iron Man 2 et Avengers
+001r,001f,Direct,a réalisé,1,
+002r,002f,Direct,a réalisé,1,
+008a,002f,Direct,a joué dans,1,
+009a,002f,Direct,a joué dans,1,
+010a,002f,Direct,a joué dans,1,
+011a,002f,Direct,a joué dans,1,
+001a,002f,Direct,a joué dans,1,
+008a,009a,Undirected,ont partagé au moins une scène dans un film,1,L'Incroyable Hulk
+008a,010a,Undirected,ont partagé au moins une scène dans un film,1,L'Incroyable Hulk
+008a,011a,Undirected,ont partagé au moins une scène dans un film,1,L'Incroyable Hulk
+009a,010a,Undirected,ont partagé au moins une scène dans un film,1,L'Incroyable Hulk
+009a,011a,Undirected,ont partagé au moins une scène dans un film,1,L'Incroyable Hulk
+010a,011a,Undirected,ont partagé au moins une scène dans un film,1,L'Incroyable Hulk
+011a,001a,Undirected,ont partagé au moins une scène dans un film,1,L'Incroyable Hulk
+001r,003f,Direct,a réalisé,1,
+001a,003f,Direct,a joué dans,1,
+002a,003f,Direct,a joué dans,1,
+012a,003f,Direct,a joué dans,1,
+007a,003f,Direct,a joué dans,1,
+014a,003f,Direct,a joué dans,1,
+005a,003f,Direct,a joué dans,1,
+006a,003f,Direct,a joué dans,1,
+001a,012a,Undirected,ont partagé au moins une scène dans un film,1,Iron Man 2
+001a,014a,Undirected,ont partagé au moins une scène dans un film,2,Iron Man 2 et Avengers
+002a,012a,Undirected,ont partagé au moins une scène dans un film,1,Iron Man 2
+002a,014a,Undirected,ont partagé au moins une scène dans un film,1,Iron Man 2
+012a,007a,Undirected,ont partagé au moins une scène dans un film,1,Iron Man 2
+012a,014a,Undirected,ont partagé au moins une scène dans un film,1,Iron Man 2
+005a,012a,Undirected,ont partagé au moins une scène dans un film,1,Iron Man 2
+005a,014a,Undirected,ont partagé au moins une scène dans un film,2,Iron Man 2 et Avengers
+014a,006a,Undirected,ont partagé au moins une scène dans un film,2,Iron Man 2 et Avengers
+003r,004f,Direct,a réalisé,1,
+013a,004f,Direct,a joué dans,1,
+015a,004f,Direct,a joué dans,1,
+016a,004f,Direct,a joué dans,1,
+005a,004f,Direct,a joué dans,1,
+007a,004f,Direct,a joué dans,1,
+013a,015a,Undirected,ont partagé au moins une scène dans un film,2,Thor et Avengers
+013a,016a,Undirected,ont partagé au moins une scène dans un film,2,Thor et Avengers
+013a,005a,Undirected,ont partagé au moins une scène dans un film,2,Thor et Avengers
+013a,007a,Undirected,ont partagé au moins une scène dans un film,1,Avengers
+015a,016a,Undirected,ont partagé au moins une scène dans un film,2,Thor et Avengers
+015a,005a,Undirected,ont partagé au moins une scène dans un film,2,Thor et Avengers
+015a,007a,Undirected,ont partagé au moins une scène dans un film,1,Avengers
+016a,005a,Undirected,ont partagé au moins une scène dans un film,2,Thor et Avengers
+016a,007a,Undirected,ont partagé au moins une scène dans un film,1,Avengers
+004r,005f,Direct,a réalisé,1,
+017a,005f,Direct,a joué dans,1,
+018a,005f,Direct,a joué dans,1,
+019a,005f,Direct,a joué dans,1,
+007a,005f,Direct,a joué dans,1,
+017a,018a,Undirected,ont partagé au moins une scène dans un film,1,Captain America: First Avenger
+017a,019a,Undirected,ont partagé au moins une scène dans un film,1,Captain America: First Avenger
+017a,007a,Undirected,ont partagé au moins une scène dans un film,2,Captain America: First Avenger et Avengers
+018a,019a,Undirected,ont partagé au moins une scène dans un film,1,Captain America: First Avenger
+005r,006f,Direct,a réalisé,1,
+001a,006f,Direct,a joué dans,1,
+017a,006f,Direct,a joué dans,1,
+020a,006f,Direct,a joué dans,1,
+013a,006f,Direct,a joué dans,1,
+014a,006f,Direct,a joué dans,1,
+016a,006f,Direct,a joué dans,1,
+015a,006f,Direct,a joué dans,1,
+007a,006f,Direct,a joué dans,1,
+005a,006f,Direct,a joué dans,1,
+002a,006f,Direct,a joué dans,1,
+006a,006f,Direct,a joué dans,1,
+001a,017a,Undirected,ont partagé au moins une scène dans un film,1,Avengers
+001a,020a,Undirected,ont partagé au moins une scène dans un film,1,Avengers
+001a,013a,Undirected,ont partagé au moins une scène dans un film,1,Avengers
+001a,016a,Undirected,ont partagé au moins une scène dans un film,1,Avengers
+001a,015a,Undirected,ont partagé au moins une scène dans un film,1,Avengers
+017a,020a,Undirected,ont partagé au moins une scène dans un film,1,Avengers
+017a,013a,Undirected,ont partagé au moins une scène dans un film,1,Avengers
+017a,014a,Undirected,ont partagé au moins une scène dans un film,1,Avengers
+017a,016a,Undirected,ont partagé au moins une scène dans un film,1,Avengers
+017a,015a,Undirected,ont partagé au moins une scène dans un film,1,Avengers
+017a,005a,Undirected,ont partagé au moins une scène dans un film,1,Avengers
+017a,006a,Undirected,ont partagé au moins une scène dans un film,1,Avengers
+020a,013a,Undirected,ont partagé au moins une scène dans un film,1,Avengers
+020a,014a,Undirected,ont partagé au moins une scène dans un film,1,Avengers
+020a,016a,Undirected,ont partagé au moins une scène dans un film,1,Avengers
+020a,015a,Undirected,ont partagé au moins une scène dans un film,1,Avengers
+020a,007a,Undirected,ont partagé au moins une scène dans un film,1,Avengers
+020a,005a,Undirected,ont partagé au moins une scène dans un film,1,Avengers
+020a,006a,Undirected,ont partagé au moins une scène dans un film,1,Avengers
+013a,014a,Undirected,ont partagé au moins une scène dans un film,1,Avengers
+013a,006a,Undirected,ont partagé au moins une scène dans un film,1,Avengers
+014a,015a,Undirected,ont partagé au moins une scène dans un film,1,Avengers
+014a,016a,Undirected,ont partagé au moins une scène dans un film,1,Avengers
+016a,006a,Undirected,ont partagé au moins une scène dans un film,1,Avengers
+015a,002a,Undirected,ont partagé au moins une scène dans un film,1,Avengers
+015a,006a,Undirected,ont partagé au moins une scène dans un film,1,Avengers
+007a,014a,Undirected,ont partagé au moins une scène dans un film,2,Iron Man 2 et Avengers
